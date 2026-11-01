@@ -1,6 +1,300 @@
 {
   "portraits": [
     {
+      "character": "aberforth_dumbledore",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/aberforth_dumbledore/aberforth_dumbledore-base-base-calm.png"
+    },
+    {
+      "character": "alecto_carrow",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/alecto_carrow/alecto_carrow-base-base-calm.png"
+    },
+    {
+      "character": "alicia_spinnet",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/alicia_spinnet/alicia_spinnet-3-casual-calm.png"
+    },
+    {
+      "character": "alicia_spinnet",
+      "year": "3",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/alicia_spinnet/alicia_spinnet-3-uniform-calm.png"
+    },
+    {
+      "character": "alicia_spinnet",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/alicia_spinnet/alicia_spinnet-4-casual-calm.png"
+    },
+    {
+      "character": "alicia_spinnet",
+      "year": "4",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/alicia_spinnet/alicia_spinnet-4-uniform-calm.png"
+    },
+    {
+      "character": "alicia_spinnet",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/alicia_spinnet/alicia_spinnet-5-casual-calm.png"
+    },
+    {
+      "character": "alicia_spinnet",
+      "year": "5",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/alicia_spinnet/alicia_spinnet-5-uniform-calm.png"
+    },
+    {
+      "character": "alicia_spinnet",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/alicia_spinnet/alicia_spinnet-6-casual-calm.png"
+    },
+    {
+      "character": "alicia_spinnet",
+      "year": "6",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/alicia_spinnet/alicia_spinnet-6-uniform-calm.png"
+    },
+    {
+      "character": "alicia_spinnet",
+      "year": "7",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/alicia_spinnet/alicia_spinnet-7-casual-calm.png"
+    },
+    {
+      "character": "alicia_spinnet",
+      "year": "7",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/alicia_spinnet/alicia_spinnet-7-uniform-calm.png"
+    },
+    {
+      "character": "ambrosius_flume",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/ambrosius_flume/ambrosius_flume-base-base-calm.png"
+    },
+    {
+      "character": "amelia_bones",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/amelia_bones/amelia_bones-base-base-calm.png"
+    },
+    {
+      "character": "amycus_carrow",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/amycus_carrow/amycus_carrow-base-base-calm.png"
+    },
+    {
+      "character": "andromeda_tonks",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/andromeda_tonks/andromeda_tonks-base-base-calm.png"
+    },
+    {
+      "character": "angelina_johnson",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/angelina_johnson/angelina_johnson-3-casual-calm.png"
+    },
+    {
+      "character": "angelina_johnson",
+      "year": "3",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/angelina_johnson/angelina_johnson-3-uniform-calm.png"
+    },
+    {
+      "character": "angelina_johnson",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/angelina_johnson/angelina_johnson-4-casual-calm.png"
+    },
+    {
+      "character": "angelina_johnson",
+      "year": "4",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/angelina_johnson/angelina_johnson-4-uniform-calm.png"
+    },
+    {
+      "character": "angelina_johnson",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/angelina_johnson/angelina_johnson-5-casual-calm.png"
+    },
+    {
+      "character": "angelina_johnson",
+      "year": "5",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/angelina_johnson/angelina_johnson-5-uniform-calm.png"
+    },
+    {
+      "character": "angelina_johnson",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/angelina_johnson/angelina_johnson-6-casual-calm.png"
+    },
+    {
+      "character": "angelina_johnson",
+      "year": "6",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/angelina_johnson/angelina_johnson-6-uniform-calm.png"
+    },
+    {
+      "character": "angelina_johnson",
+      "year": "7",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/angelina_johnson/angelina_johnson-7-casual-calm.png"
+    },
+    {
+      "character": "angelina_johnson",
+      "year": "7",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/angelina_johnson/angelina_johnson-7-uniform-calm.png"
+    },
+    {
+      "character": "anthony_goldstein",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/anthony_goldstein/anthony_goldstein-1-casual-calm.png"
+    },
+    {
+      "character": "anthony_goldstein",
+      "year": "1",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/anthony_goldstein/anthony_goldstein-1-uniform-calm.png"
+    },
+    {
+      "character": "anthony_goldstein",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/anthony_goldstein/anthony_goldstein-2-casual-calm.png"
+    },
+    {
+      "character": "anthony_goldstein",
+      "year": "2",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/anthony_goldstein/anthony_goldstein-2-uniform-calm.png"
+    },
+    {
+      "character": "anthony_goldstein",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/anthony_goldstein/anthony_goldstein-3-casual-calm.png"
+    },
+    {
+      "character": "anthony_goldstein",
+      "year": "3",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/anthony_goldstein/anthony_goldstein-3-uniform-calm.png"
+    },
+    {
+      "character": "anthony_goldstein",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/anthony_goldstein/anthony_goldstein-4-casual-calm.png"
+    },
+    {
+      "character": "anthony_goldstein",
+      "year": "4",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/anthony_goldstein/anthony_goldstein-4-uniform-calm.png"
+    },
+    {
+      "character": "anthony_goldstein",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/anthony_goldstein/anthony_goldstein-5-casual-calm.png"
+    },
+    {
+      "character": "anthony_goldstein",
+      "year": "5",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/anthony_goldstein/anthony_goldstein-5-uniform-calm.png"
+    },
+    {
+      "character": "anthony_goldstein",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/anthony_goldstein/anthony_goldstein-6-casual-calm.png"
+    },
+    {
+      "character": "anthony_goldstein",
+      "year": "6",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/anthony_goldstein/anthony_goldstein-6-uniform-calm.png"
+    },
+    {
+      "character": "anthony_goldstein",
+      "year": "7",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/anthony_goldstein/anthony_goldstein-7-casual-calm.png"
+    },
+    {
+      "character": "anthony_goldstein",
+      "year": "7",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/anthony_goldstein/anthony_goldstein-7-uniform-calm.png"
+    },
+    {
+      "character": "antonin_dolohov",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/antonin_dolohov/antonin_dolohov-base-base-calm.png"
+    },
+    {
+      "character": "arabella_figg",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/arabella_figg/arabella_figg-base-base-calm.png"
+    },
+    {
       "character": "arthur",
       "year": "base",
       "clothing": "base",
@@ -34,6 +328,13 @@
       "clothing": "base",
       "emotion": "surprised",
       "url": "/assets/portraits/character_bases/arthur-base-base-surprised-attempt-1.png"
+    },
+    {
+      "character": "augusta_longbottom",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/augusta_longbottom/augusta_longbottom-base-base-calm.png"
     },
     {
       "character": "aurora_sinistra",
@@ -71,6 +372,13 @@
       "url": "/assets/portraits/aurora_sinistra/aurora_sinistra-base-base-surprised.png"
     },
     {
+      "character": "bathsheda_babbling",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/bathsheda_babbling/bathsheda_babbling-base-base-calm.png"
+    },
+    {
       "character": "bellatrix",
       "year": "base",
       "clothing": "base",
@@ -104,6 +412,202 @@
       "clothing": "base",
       "emotion": "surprised",
       "url": "/assets/portraits/character_bases/bellatrix-base-base-surprised-attempt-1.png"
+    },
+    {
+      "character": "bill_weasley",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/bill_weasley/bill_weasley-base-base-calm.png"
+    },
+    {
+      "character": "blaise_zabini",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/blaise_zabini/blaise_zabini-1-casual-calm.png"
+    },
+    {
+      "character": "blaise_zabini",
+      "year": "1",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/blaise_zabini/blaise_zabini-1-uniform-calm.png"
+    },
+    {
+      "character": "blaise_zabini",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/blaise_zabini/blaise_zabini-2-casual-calm.png"
+    },
+    {
+      "character": "blaise_zabini",
+      "year": "2",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/blaise_zabini/blaise_zabini-2-uniform-calm.png"
+    },
+    {
+      "character": "blaise_zabini",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/blaise_zabini/blaise_zabini-3-casual-calm.png"
+    },
+    {
+      "character": "blaise_zabini",
+      "year": "3",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/blaise_zabini/blaise_zabini-3-uniform-calm.png"
+    },
+    {
+      "character": "blaise_zabini",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/blaise_zabini/blaise_zabini-4-casual-calm.png"
+    },
+    {
+      "character": "blaise_zabini",
+      "year": "4",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/blaise_zabini/blaise_zabini-4-uniform-calm.png"
+    },
+    {
+      "character": "blaise_zabini",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/blaise_zabini/blaise_zabini-5-casual-calm.png"
+    },
+    {
+      "character": "blaise_zabini",
+      "year": "5",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/blaise_zabini/blaise_zabini-5-uniform-calm.png"
+    },
+    {
+      "character": "blaise_zabini",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/blaise_zabini/blaise_zabini-6-casual-calm.png"
+    },
+    {
+      "character": "blaise_zabini",
+      "year": "6",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/blaise_zabini/blaise_zabini-6-uniform-calm.png"
+    },
+    {
+      "character": "blaise_zabini",
+      "year": "7",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/blaise_zabini/blaise_zabini-7-casual-calm.png"
+    },
+    {
+      "character": "blaise_zabini",
+      "year": "7",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/blaise_zabini/blaise_zabini-7-uniform-calm.png"
+    },
+    {
+      "character": "bloody_baron",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/bloody_baron/bloody_baron-base-base-calm.png"
+    },
+    {
+      "character": "bogrod",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/bogrod/bogrod-base-base-calm.png"
+    },
+    {
+      "character": "cedric_diggory",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/cedric_diggory/cedric_diggory-3-casual-calm.png"
+    },
+    {
+      "character": "cedric_diggory",
+      "year": "3",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/cedric_diggory/cedric_diggory-3-uniform-calm.png"
+    },
+    {
+      "character": "cedric_diggory",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/cedric_diggory/cedric_diggory-4-casual-calm.png"
+    },
+    {
+      "character": "cedric_diggory",
+      "year": "4",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/cedric_diggory/cedric_diggory-4-uniform-calm.png"
+    },
+    {
+      "character": "cedric_diggory",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/cedric_diggory/cedric_diggory-5-casual-calm.png"
+    },
+    {
+      "character": "cedric_diggory",
+      "year": "5",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/cedric_diggory/cedric_diggory-5-uniform-calm.png"
+    },
+    {
+      "character": "cedric_diggory",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/cedric_diggory/cedric_diggory-6-casual-calm.png"
+    },
+    {
+      "character": "cedric_diggory",
+      "year": "6",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/cedric_diggory/cedric_diggory-6-uniform-calm.png"
+    },
+    {
+      "character": "cedric_diggory",
+      "year": "7",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/cedric_diggory/cedric_diggory-7-casual-calm.png"
+    },
+    {
+      "character": "cedric_diggory",
+      "year": "7",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/cedric_diggory/cedric_diggory-7-uniform-calm.png"
+    },
+    {
+      "character": "charlie_weasley",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/charlie_weasley/charlie_weasley-base-base-calm.png"
     },
     {
       "character": "cho",
@@ -526,6 +1030,97 @@
       "url": "/assets/portraits/character_bases/cho-6-uniform-surprised-attempt-1.png"
     },
     {
+      "character": "colin_creevey",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/colin_creevey/colin_creevey-1-casual-calm.png"
+    },
+    {
+      "character": "colin_creevey",
+      "year": "1",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/colin_creevey/colin_creevey-1-uniform-calm.png"
+    },
+    {
+      "character": "colin_creevey",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/colin_creevey/colin_creevey-2-casual-calm.png"
+    },
+    {
+      "character": "colin_creevey",
+      "year": "2",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/colin_creevey/colin_creevey-2-uniform-calm.png"
+    },
+    {
+      "character": "colin_creevey",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/colin_creevey/colin_creevey-3-casual-calm.png"
+    },
+    {
+      "character": "colin_creevey",
+      "year": "3",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/colin_creevey/colin_creevey-3-uniform-calm.png"
+    },
+    {
+      "character": "colin_creevey",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/colin_creevey/colin_creevey-4-casual-calm.png"
+    },
+    {
+      "character": "colin_creevey",
+      "year": "4",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/colin_creevey/colin_creevey-4-uniform-calm.png"
+    },
+    {
+      "character": "colin_creevey",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/colin_creevey/colin_creevey-5-casual-calm.png"
+    },
+    {
+      "character": "colin_creevey",
+      "year": "5",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/colin_creevey/colin_creevey-5-uniform-calm.png"
+    },
+    {
+      "character": "colin_creevey",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/colin_creevey/colin_creevey-6-casual-calm.png"
+    },
+    {
+      "character": "colin_creevey",
+      "year": "6",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/colin_creevey/colin_creevey-6-uniform-calm.png"
+    },
+    {
+      "character": "corban_yaxley",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/corban_yaxley/corban_yaxley-base-base-calm.png"
+    },
+    {
       "character": "crouch_junior",
       "year": "base",
       "clothing": "base",
@@ -629,6 +1224,160 @@
       "clothing": "base",
       "emotion": "surprised",
       "url": "/assets/portraits/cuthbert_binns/cuthbert_binns-base-base-surprised.png"
+    },
+    {
+      "character": "dean_thomas",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/dean_thomas/dean_thomas-1-casual-calm.png"
+    },
+    {
+      "character": "dean_thomas",
+      "year": "1",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/dean_thomas/dean_thomas-1-uniform-calm.png"
+    },
+    {
+      "character": "dean_thomas",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/dean_thomas/dean_thomas-2-casual-calm.png"
+    },
+    {
+      "character": "dean_thomas",
+      "year": "2",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/dean_thomas/dean_thomas-2-uniform-calm.png"
+    },
+    {
+      "character": "dean_thomas",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/dean_thomas/dean_thomas-3-casual-calm.png"
+    },
+    {
+      "character": "dean_thomas",
+      "year": "3",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/dean_thomas/dean_thomas-3-uniform-calm.png"
+    },
+    {
+      "character": "dean_thomas",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/dean_thomas/dean_thomas-4-casual-calm.png"
+    },
+    {
+      "character": "dean_thomas",
+      "year": "4",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/dean_thomas/dean_thomas-4-uniform-calm.png"
+    },
+    {
+      "character": "dean_thomas",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/dean_thomas/dean_thomas-5-casual-calm.png"
+    },
+    {
+      "character": "dean_thomas",
+      "year": "5",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/dean_thomas/dean_thomas-5-uniform-calm.png"
+    },
+    {
+      "character": "dean_thomas",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/dean_thomas/dean_thomas-6-casual-calm.png"
+    },
+    {
+      "character": "dean_thomas",
+      "year": "6",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/dean_thomas/dean_thomas-6-uniform-calm.png"
+    },
+    {
+      "character": "dean_thomas",
+      "year": "7",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/dean_thomas/dean_thomas-7-casual-calm.png"
+    },
+    {
+      "character": "dean_thomas",
+      "year": "7",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/dean_thomas/dean_thomas-7-uniform-calm.png"
+    },
+    {
+      "character": "dennis_creevey",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/dennis_creevey/dennis_creevey-1-casual-calm.png"
+    },
+    {
+      "character": "dennis_creevey",
+      "year": "1",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/dennis_creevey/dennis_creevey-1-uniform-calm.png"
+    },
+    {
+      "character": "dennis_creevey",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/dennis_creevey/dennis_creevey-2-casual-calm.png"
+    },
+    {
+      "character": "dennis_creevey",
+      "year": "2",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/dennis_creevey/dennis_creevey-2-uniform-calm.png"
+    },
+    {
+      "character": "dennis_creevey",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/dennis_creevey/dennis_creevey-3-casual-calm.png"
+    },
+    {
+      "character": "dennis_creevey",
+      "year": "3",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/dennis_creevey/dennis_creevey-3-uniform-calm.png"
+    },
+    {
+      "character": "dennis_creevey",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/dennis_creevey/dennis_creevey-4-casual-calm.png"
+    },
+    {
+      "character": "dennis_creevey",
+      "year": "4",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/dennis_creevey/dennis_creevey-4-uniform-calm.png"
     },
     {
       "character": "dobby",
@@ -1226,6 +1975,118 @@
       "url": "/assets/portraits/character_bases/dumbledore-base-base-surprised-attempt-3.png"
     },
     {
+      "character": "ernie_macmillan",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/ernie_macmillan/ernie_macmillan-1-casual-calm.png"
+    },
+    {
+      "character": "ernie_macmillan",
+      "year": "1",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/ernie_macmillan/ernie_macmillan-1-uniform-calm.png"
+    },
+    {
+      "character": "ernie_macmillan",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/ernie_macmillan/ernie_macmillan-2-casual-calm.png"
+    },
+    {
+      "character": "ernie_macmillan",
+      "year": "2",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/ernie_macmillan/ernie_macmillan-2-uniform-calm.png"
+    },
+    {
+      "character": "ernie_macmillan",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/ernie_macmillan/ernie_macmillan-3-casual-calm.png"
+    },
+    {
+      "character": "ernie_macmillan",
+      "year": "3",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/ernie_macmillan/ernie_macmillan-3-uniform-calm.png"
+    },
+    {
+      "character": "ernie_macmillan",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/ernie_macmillan/ernie_macmillan-4-casual-calm.png"
+    },
+    {
+      "character": "ernie_macmillan",
+      "year": "4",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/ernie_macmillan/ernie_macmillan-4-uniform-calm.png"
+    },
+    {
+      "character": "ernie_macmillan",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/ernie_macmillan/ernie_macmillan-5-casual-calm.png"
+    },
+    {
+      "character": "ernie_macmillan",
+      "year": "5",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/ernie_macmillan/ernie_macmillan-5-uniform-calm.png"
+    },
+    {
+      "character": "ernie_macmillan",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/ernie_macmillan/ernie_macmillan-6-casual-calm.png"
+    },
+    {
+      "character": "ernie_macmillan",
+      "year": "6",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/ernie_macmillan/ernie_macmillan-6-uniform-calm.png"
+    },
+    {
+      "character": "ernie_macmillan",
+      "year": "7",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/ernie_macmillan/ernie_macmillan-7-casual-calm.png"
+    },
+    {
+      "character": "ernie_macmillan",
+      "year": "7",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/ernie_macmillan/ernie_macmillan-7-uniform-calm.png"
+    },
+    {
+      "character": "fat_friar",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/fat_friar/fat_friar-base-base-calm.png"
+    },
+    {
+      "character": "fenrir_greyback",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/fenrir_greyback/fenrir_greyback-base-base-calm.png"
+    },
+    {
       "character": "filch",
       "year": "base",
       "clothing": "base",
@@ -1259,6 +2120,13 @@
       "clothing": "base",
       "emotion": "surprised",
       "url": "/assets/portraits/character_bases/filch-base-base-surprised-attempt-1.png"
+    },
+    {
+      "character": "firenze",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/firenze/firenze-base-base-calm.png"
     },
     {
       "character": "fleur",
@@ -1331,6 +2199,13 @@
       "url": "/assets/portraits/character_bases/flitwick-base-base-surprised-attempt-1.png"
     },
     {
+      "character": "florean_fortescue",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/florean_fortescue/florean_fortescue-base-base-calm.png"
+    },
+    {
       "character": "fudge",
       "year": "base",
       "clothing": "base",
@@ -1364,6 +2239,62 @@
       "clothing": "base",
       "emotion": "surprised",
       "url": "/assets/portraits/character_bases/fudge-base-base-surprised-attempt-1.png"
+    },
+    {
+      "character": "garrick_ollivander",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/garrick_ollivander/garrick_ollivander-base-base-calm.png"
+    },
+    {
+      "character": "generic_auror_female",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_auror_female/generic_auror_female-base-base-calm.png"
+    },
+    {
+      "character": "generic_auror_male",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_auror_male/generic_auror_male-base-base-calm.png"
+    },
+    {
+      "character": "generic_death_eater",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_death_eater/generic_death_eater-base-base-calm.png"
+    },
+    {
+      "character": "generic_elder_female",
+      "year": "base",
+      "clothing": "muggle",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_elder_female/generic_elder_female-base-muggle-calm.png"
+    },
+    {
+      "character": "generic_elder_female",
+      "year": "base",
+      "clothing": "wizard",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_elder_female/generic_elder_female-base-wizard-calm.png"
+    },
+    {
+      "character": "generic_elder_male",
+      "year": "base",
+      "clothing": "muggle",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_elder_male/generic_elder_male-base-muggle-calm.png"
+    },
+    {
+      "character": "generic_elder_male",
+      "year": "base",
+      "clothing": "wizard",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_elder_male/generic_elder_male-base-wizard-calm.png"
     },
     {
       "character": "generic_goblin",
@@ -1401,6 +2332,20 @@
       "url": "/assets/portraits/generic_goblin/generic_goblin-base-base-surprised.png"
     },
     {
+      "character": "generic_healer_female",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_healer_female/generic_healer_female-base-base-calm.png"
+    },
+    {
+      "character": "generic_healer_male",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_healer_male/generic_healer_male-base-base-calm.png"
+    },
+    {
       "character": "generic_house_elf",
       "year": "base",
       "clothing": "base",
@@ -1434,6 +2379,188 @@
       "clothing": "base",
       "emotion": "surprised",
       "url": "/assets/portraits/generic_house_elf/generic_house_elf-base-base-surprised.png"
+    },
+    {
+      "character": "generic_middle_female",
+      "year": "base",
+      "clothing": "muggle",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_middle_female/generic_middle_female-base-muggle-calm.png"
+    },
+    {
+      "character": "generic_middle_female",
+      "year": "base",
+      "clothing": "wizard",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_middle_female/generic_middle_female-base-wizard-calm.png"
+    },
+    {
+      "character": "generic_middle_male",
+      "year": "base",
+      "clothing": "muggle",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_middle_male/generic_middle_male-base-muggle-calm.png"
+    },
+    {
+      "character": "generic_middle_male",
+      "year": "base",
+      "clothing": "wizard",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_middle_male/generic_middle_male-base-wizard-calm.png"
+    },
+    {
+      "character": "generic_ministry_staff_female",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_ministry_staff_female/generic_ministry_staff_female-base-base-calm.png"
+    },
+    {
+      "character": "generic_ministry_staff_male",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_ministry_staff_male/generic_ministry_staff_male-base-base-calm.png"
+    },
+    {
+      "character": "generic_server_female",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_server_female/generic_server_female-base-base-calm.png"
+    },
+    {
+      "character": "generic_server_male",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_server_male/generic_server_male-base-base-calm.png"
+    },
+    {
+      "character": "generic_shop_staff_female",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_shop_staff_female/generic_shop_staff_female-base-base-calm.png"
+    },
+    {
+      "character": "generic_shop_staff_male",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_shop_staff_male/generic_shop_staff_male-base-base-calm.png"
+    },
+    {
+      "character": "generic_teen_female",
+      "year": "base",
+      "clothing": "gryffindor",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_teen_female/generic_teen_female-base-gryffindor-calm.png"
+    },
+    {
+      "character": "generic_teen_female",
+      "year": "base",
+      "clothing": "hufflepuff",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_teen_female/generic_teen_female-base-hufflepuff-calm.png"
+    },
+    {
+      "character": "generic_teen_female",
+      "year": "base",
+      "clothing": "muggle",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_teen_female/generic_teen_female-base-muggle-calm.png"
+    },
+    {
+      "character": "generic_teen_female",
+      "year": "base",
+      "clothing": "ravenclaw",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_teen_female/generic_teen_female-base-ravenclaw-calm.png"
+    },
+    {
+      "character": "generic_teen_female",
+      "year": "base",
+      "clothing": "slytherin",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_teen_female/generic_teen_female-base-slytherin-calm.png"
+    },
+    {
+      "character": "generic_teen_female",
+      "year": "base",
+      "clothing": "wizard",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_teen_female/generic_teen_female-base-wizard-calm.png"
+    },
+    {
+      "character": "generic_teen_male",
+      "year": "base",
+      "clothing": "gryffindor",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_teen_male/generic_teen_male-base-gryffindor-calm.png"
+    },
+    {
+      "character": "generic_teen_male",
+      "year": "base",
+      "clothing": "hufflepuff",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_teen_male/generic_teen_male-base-hufflepuff-calm.png"
+    },
+    {
+      "character": "generic_teen_male",
+      "year": "base",
+      "clothing": "muggle",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_teen_male/generic_teen_male-base-muggle-calm.png"
+    },
+    {
+      "character": "generic_teen_male",
+      "year": "base",
+      "clothing": "ravenclaw",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_teen_male/generic_teen_male-base-ravenclaw-calm.png"
+    },
+    {
+      "character": "generic_teen_male",
+      "year": "base",
+      "clothing": "slytherin",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_teen_male/generic_teen_male-base-slytherin-calm.png"
+    },
+    {
+      "character": "generic_teen_male",
+      "year": "base",
+      "clothing": "wizard",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_teen_male/generic_teen_male-base-wizard-calm.png"
+    },
+    {
+      "character": "generic_young_female",
+      "year": "base",
+      "clothing": "muggle",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_young_female/generic_young_female-base-muggle-calm.png"
+    },
+    {
+      "character": "generic_young_female",
+      "year": "base",
+      "clothing": "wizard",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_young_female/generic_young_female-base-wizard-calm.png"
+    },
+    {
+      "character": "generic_young_male",
+      "year": "base",
+      "clothing": "muggle",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_young_male/generic_young_male-base-muggle-calm.png"
+    },
+    {
+      "character": "generic_young_male",
+      "year": "base",
+      "clothing": "wizard",
+      "emotion": "calm",
+      "url": "/assets/portraits/generic_young_male/generic_young_male-base-wizard-calm.png"
     },
     {
       "character": "ginny",
@@ -1856,6 +2983,125 @@
       "url": "/assets/portraits/character_bases/ginny-6-uniform-surprised-attempt-1.png"
     },
     {
+      "character": "godric_gryffindor_portrait",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/godric_gryffindor_portrait/godric_gryffindor_portrait-base-base-calm.png"
+    },
+    {
+      "character": "gregory_goyle",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/gregory_goyle/gregory_goyle-1-casual-calm.png"
+    },
+    {
+      "character": "gregory_goyle",
+      "year": "1",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/gregory_goyle/gregory_goyle-1-uniform-calm.png"
+    },
+    {
+      "character": "gregory_goyle",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/gregory_goyle/gregory_goyle-2-casual-calm.png"
+    },
+    {
+      "character": "gregory_goyle",
+      "year": "2",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/gregory_goyle/gregory_goyle-2-uniform-calm.png"
+    },
+    {
+      "character": "gregory_goyle",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/gregory_goyle/gregory_goyle-3-casual-calm.png"
+    },
+    {
+      "character": "gregory_goyle",
+      "year": "3",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/gregory_goyle/gregory_goyle-3-uniform-calm.png"
+    },
+    {
+      "character": "gregory_goyle",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/gregory_goyle/gregory_goyle-4-casual-calm.png"
+    },
+    {
+      "character": "gregory_goyle",
+      "year": "4",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/gregory_goyle/gregory_goyle-4-uniform-calm.png"
+    },
+    {
+      "character": "gregory_goyle",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/gregory_goyle/gregory_goyle-5-casual-calm.png"
+    },
+    {
+      "character": "gregory_goyle",
+      "year": "5",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/gregory_goyle/gregory_goyle-5-uniform-calm.png"
+    },
+    {
+      "character": "gregory_goyle",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/gregory_goyle/gregory_goyle-6-casual-calm.png"
+    },
+    {
+      "character": "gregory_goyle",
+      "year": "6",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/gregory_goyle/gregory_goyle-6-uniform-calm.png"
+    },
+    {
+      "character": "gregory_goyle",
+      "year": "7",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/gregory_goyle/gregory_goyle-7-casual-calm.png"
+    },
+    {
+      "character": "gregory_goyle",
+      "year": "7",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/gregory_goyle/gregory_goyle-7-uniform-calm.png"
+    },
+    {
+      "character": "grey_lady",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/grey_lady/grey_lady-base-base-calm.png"
+    },
+    {
+      "character": "griphook",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/griphook/griphook-base-base-calm.png"
+    },
+    {
       "character": "hagrid",
       "year": "base",
       "clothing": "base",
@@ -1889,6 +3135,104 @@
       "clothing": "base",
       "emotion": "surprised",
       "url": "/assets/portraits/character_bases/hagrid-base-base-surprised-attempt-3.png"
+    },
+    {
+      "character": "hannah_abbott",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/hannah_abbott/hannah_abbott-1-casual-calm.png"
+    },
+    {
+      "character": "hannah_abbott",
+      "year": "1",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/hannah_abbott/hannah_abbott-1-uniform-calm.png"
+    },
+    {
+      "character": "hannah_abbott",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/hannah_abbott/hannah_abbott-2-casual-calm.png"
+    },
+    {
+      "character": "hannah_abbott",
+      "year": "2",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/hannah_abbott/hannah_abbott-2-uniform-calm.png"
+    },
+    {
+      "character": "hannah_abbott",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/hannah_abbott/hannah_abbott-3-casual-calm.png"
+    },
+    {
+      "character": "hannah_abbott",
+      "year": "3",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/hannah_abbott/hannah_abbott-3-uniform-calm.png"
+    },
+    {
+      "character": "hannah_abbott",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/hannah_abbott/hannah_abbott-4-casual-calm.png"
+    },
+    {
+      "character": "hannah_abbott",
+      "year": "4",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/hannah_abbott/hannah_abbott-4-uniform-calm.png"
+    },
+    {
+      "character": "hannah_abbott",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/hannah_abbott/hannah_abbott-5-casual-calm.png"
+    },
+    {
+      "character": "hannah_abbott",
+      "year": "5",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/hannah_abbott/hannah_abbott-5-uniform-calm.png"
+    },
+    {
+      "character": "hannah_abbott",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/hannah_abbott/hannah_abbott-6-casual-calm.png"
+    },
+    {
+      "character": "hannah_abbott",
+      "year": "6",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/hannah_abbott/hannah_abbott-6-uniform-calm.png"
+    },
+    {
+      "character": "hannah_abbott",
+      "year": "7",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/hannah_abbott/hannah_abbott-7-casual-calm.png"
+    },
+    {
+      "character": "hannah_abbott",
+      "year": "7",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/hannah_abbott/hannah_abbott-7-uniform-calm.png"
     },
     {
       "character": "harry",
@@ -2309,6 +3653,13 @@
       "clothing": "uniform",
       "emotion": "surprised",
       "url": "/assets/portraits/character_bases/harry-6-uniform-surprised-attempt-1.png"
+    },
+    {
+      "character": "helga_hufflepuff_portrait",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/helga_hufflepuff_portrait/helga_hufflepuff_portrait-base-base-calm.png"
     },
     {
       "character": "hermione",
@@ -2766,6 +4117,384 @@
       "url": "/assets/portraits/irma_pince/irma_pince-base-base-surprised.png"
     },
     {
+      "character": "james_potter",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/james_potter/james_potter-base-base-calm.png"
+    },
+    {
+      "character": "justin_finch_fletchley",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/justin_finch_fletchley/justin_finch_fletchley-1-casual-calm.png"
+    },
+    {
+      "character": "justin_finch_fletchley",
+      "year": "1",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/justin_finch_fletchley/justin_finch_fletchley-1-uniform-calm.png"
+    },
+    {
+      "character": "justin_finch_fletchley",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/justin_finch_fletchley/justin_finch_fletchley-2-casual-calm.png"
+    },
+    {
+      "character": "justin_finch_fletchley",
+      "year": "2",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/justin_finch_fletchley/justin_finch_fletchley-2-uniform-calm.png"
+    },
+    {
+      "character": "justin_finch_fletchley",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/justin_finch_fletchley/justin_finch_fletchley-3-casual-calm.png"
+    },
+    {
+      "character": "justin_finch_fletchley",
+      "year": "3",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/justin_finch_fletchley/justin_finch_fletchley-3-uniform-calm.png"
+    },
+    {
+      "character": "justin_finch_fletchley",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/justin_finch_fletchley/justin_finch_fletchley-4-casual-calm.png"
+    },
+    {
+      "character": "justin_finch_fletchley",
+      "year": "4",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/justin_finch_fletchley/justin_finch_fletchley-4-uniform-calm.png"
+    },
+    {
+      "character": "justin_finch_fletchley",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/justin_finch_fletchley/justin_finch_fletchley-5-casual-calm.png"
+    },
+    {
+      "character": "justin_finch_fletchley",
+      "year": "5",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/justin_finch_fletchley/justin_finch_fletchley-5-uniform-calm.png"
+    },
+    {
+      "character": "justin_finch_fletchley",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/justin_finch_fletchley/justin_finch_fletchley-6-casual-calm.png"
+    },
+    {
+      "character": "justin_finch_fletchley",
+      "year": "6",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/justin_finch_fletchley/justin_finch_fletchley-6-uniform-calm.png"
+    },
+    {
+      "character": "justin_finch_fletchley",
+      "year": "7",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/justin_finch_fletchley/justin_finch_fletchley-7-casual-calm.png"
+    },
+    {
+      "character": "justin_finch_fletchley",
+      "year": "7",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/justin_finch_fletchley/justin_finch_fletchley-7-uniform-calm.png"
+    },
+    {
+      "character": "katie_bell",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/katie_bell/katie_bell-2-casual-calm.png"
+    },
+    {
+      "character": "katie_bell",
+      "year": "2",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/katie_bell/katie_bell-2-uniform-calm.png"
+    },
+    {
+      "character": "katie_bell",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/katie_bell/katie_bell-3-casual-calm.png"
+    },
+    {
+      "character": "katie_bell",
+      "year": "3",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/katie_bell/katie_bell-3-uniform-calm.png"
+    },
+    {
+      "character": "katie_bell",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/katie_bell/katie_bell-4-casual-calm.png"
+    },
+    {
+      "character": "katie_bell",
+      "year": "4",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/katie_bell/katie_bell-4-uniform-calm.png"
+    },
+    {
+      "character": "katie_bell",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/katie_bell/katie_bell-5-casual-calm.png"
+    },
+    {
+      "character": "katie_bell",
+      "year": "5",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/katie_bell/katie_bell-5-uniform-calm.png"
+    },
+    {
+      "character": "katie_bell",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/katie_bell/katie_bell-6-casual-calm.png"
+    },
+    {
+      "character": "katie_bell",
+      "year": "6",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/katie_bell/katie_bell-6-uniform-calm.png"
+    },
+    {
+      "character": "katie_bell",
+      "year": "7",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/katie_bell/katie_bell-7-casual-calm.png"
+    },
+    {
+      "character": "katie_bell",
+      "year": "7",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/katie_bell/katie_bell-7-uniform-calm.png"
+    },
+    {
+      "character": "kingsley_shacklebolt",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/kingsley_shacklebolt/kingsley_shacklebolt-base-base-calm.png"
+    },
+    {
+      "character": "kreacher",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/kreacher/kreacher-base-base-calm.png"
+    },
+    {
+      "character": "lavender_brown",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/lavender_brown/lavender_brown-1-casual-calm.png"
+    },
+    {
+      "character": "lavender_brown",
+      "year": "1",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/lavender_brown/lavender_brown-1-uniform-calm.png"
+    },
+    {
+      "character": "lavender_brown",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/lavender_brown/lavender_brown-2-casual-calm.png"
+    },
+    {
+      "character": "lavender_brown",
+      "year": "2",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/lavender_brown/lavender_brown-2-uniform-calm.png"
+    },
+    {
+      "character": "lavender_brown",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/lavender_brown/lavender_brown-3-casual-calm.png"
+    },
+    {
+      "character": "lavender_brown",
+      "year": "3",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/lavender_brown/lavender_brown-3-uniform-calm.png"
+    },
+    {
+      "character": "lavender_brown",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/lavender_brown/lavender_brown-4-casual-calm.png"
+    },
+    {
+      "character": "lavender_brown",
+      "year": "4",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/lavender_brown/lavender_brown-4-uniform-calm.png"
+    },
+    {
+      "character": "lavender_brown",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/lavender_brown/lavender_brown-5-casual-calm.png"
+    },
+    {
+      "character": "lavender_brown",
+      "year": "5",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/lavender_brown/lavender_brown-5-uniform-calm.png"
+    },
+    {
+      "character": "lavender_brown",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/lavender_brown/lavender_brown-6-casual-calm.png"
+    },
+    {
+      "character": "lavender_brown",
+      "year": "6",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/lavender_brown/lavender_brown-6-uniform-calm.png"
+    },
+    {
+      "character": "lavender_brown",
+      "year": "7",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/lavender_brown/lavender_brown-7-casual-calm.png"
+    },
+    {
+      "character": "lavender_brown",
+      "year": "7",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/lavender_brown/lavender_brown-7-uniform-calm.png"
+    },
+    {
+      "character": "lee_jordan",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/lee_jordan/lee_jordan-3-casual-calm.png"
+    },
+    {
+      "character": "lee_jordan",
+      "year": "3",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/lee_jordan/lee_jordan-3-uniform-calm.png"
+    },
+    {
+      "character": "lee_jordan",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/lee_jordan/lee_jordan-4-casual-calm.png"
+    },
+    {
+      "character": "lee_jordan",
+      "year": "4",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/lee_jordan/lee_jordan-4-uniform-calm.png"
+    },
+    {
+      "character": "lee_jordan",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/lee_jordan/lee_jordan-5-casual-calm.png"
+    },
+    {
+      "character": "lee_jordan",
+      "year": "5",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/lee_jordan/lee_jordan-5-uniform-calm.png"
+    },
+    {
+      "character": "lee_jordan",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/lee_jordan/lee_jordan-6-casual-calm.png"
+    },
+    {
+      "character": "lee_jordan",
+      "year": "6",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/lee_jordan/lee_jordan-6-uniform-calm.png"
+    },
+    {
+      "character": "lee_jordan",
+      "year": "7",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/lee_jordan/lee_jordan-7-casual-calm.png"
+    },
+    {
+      "character": "lee_jordan",
+      "year": "7",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/lee_jordan/lee_jordan-7-uniform-calm.png"
+    },
+    {
+      "character": "lily_potter",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/lily_potter/lily_potter-base-base-calm.png"
+    },
+    {
       "character": "lockhart",
       "year": "base",
       "clothing": "base",
@@ -2834,6 +4563,13 @@
       "clothing": "base",
       "emotion": "surprised",
       "url": "/assets/portraits/character_bases/lucius-base-base-surprised-attempt-1.png"
+    },
+    {
+      "character": "ludo_bagman",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/ludo_bagman/ludo_bagman-base-base-calm.png"
     },
     {
       "character": "luna",
@@ -3291,6 +5027,34 @@
       "url": "/assets/portraits/character_bases/lupin-base-base-surprised-attempt-1.png"
     },
     {
+      "character": "madam_malkin",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/madam_malkin/madam_malkin-base-base-calm.png"
+    },
+    {
+      "character": "madam_puddifoot",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/madam_puddifoot/madam_puddifoot-base-base-calm.png"
+    },
+    {
+      "character": "madam_rosmerta",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/madam_rosmerta/madam_rosmerta-base-base-calm.png"
+    },
+    {
+      "character": "marge_dursley",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/marge_dursley/marge_dursley-base-base-calm.png"
+    },
+    {
       "character": "mcgonagall",
       "year": "base",
       "clothing": "base",
@@ -3324,6 +5088,111 @@
       "clothing": "base",
       "emotion": "surprised",
       "url": "/assets/portraits/character_bases/mcgonagall-base-base-surprised-attempt-1.png"
+    },
+    {
+      "character": "michael_corner",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/michael_corner/michael_corner-1-casual-calm.png"
+    },
+    {
+      "character": "michael_corner",
+      "year": "1",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/michael_corner/michael_corner-1-uniform-calm.png"
+    },
+    {
+      "character": "michael_corner",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/michael_corner/michael_corner-2-casual-calm.png"
+    },
+    {
+      "character": "michael_corner",
+      "year": "2",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/michael_corner/michael_corner-2-uniform-calm.png"
+    },
+    {
+      "character": "michael_corner",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/michael_corner/michael_corner-3-casual-calm.png"
+    },
+    {
+      "character": "michael_corner",
+      "year": "3",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/michael_corner/michael_corner-3-uniform-calm.png"
+    },
+    {
+      "character": "michael_corner",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/michael_corner/michael_corner-4-casual-calm.png"
+    },
+    {
+      "character": "michael_corner",
+      "year": "4",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/michael_corner/michael_corner-4-uniform-calm.png"
+    },
+    {
+      "character": "michael_corner",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/michael_corner/michael_corner-5-casual-calm.png"
+    },
+    {
+      "character": "michael_corner",
+      "year": "5",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/michael_corner/michael_corner-5-uniform-calm.png"
+    },
+    {
+      "character": "michael_corner",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/michael_corner/michael_corner-6-casual-calm.png"
+    },
+    {
+      "character": "michael_corner",
+      "year": "6",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/michael_corner/michael_corner-6-uniform-calm.png"
+    },
+    {
+      "character": "michael_corner",
+      "year": "7",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/michael_corner/michael_corner-7-casual-calm.png"
+    },
+    {
+      "character": "michael_corner",
+      "year": "7",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/michael_corner/michael_corner-7-uniform-calm.png"
+    },
+    {
+      "character": "moaning_myrtle",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/moaning_myrtle/moaning_myrtle-base-base-calm.png"
     },
     {
       "character": "molly",
@@ -3396,6 +5265,27 @@
       "url": "/assets/portraits/character_bases/moody-base-base-surprised-attempt-1.png"
     },
     {
+      "character": "mr_granger",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/mr_granger/mr_granger-base-base-calm.png"
+    },
+    {
+      "character": "mrs_granger",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/mrs_granger/mrs_granger-base-base-calm.png"
+    },
+    {
+      "character": "mundungus_fletcher",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/mundungus_fletcher/mundungus_fletcher-base-base-calm.png"
+    },
+    {
       "character": "narcissa",
       "year": "base",
       "clothing": "base",
@@ -3429,6 +5319,13 @@
       "clothing": "base",
       "emotion": "surprised",
       "url": "/assets/portraits/character_bases/narcissa-base-base-surprised-attempt-1.png"
+    },
+    {
+      "character": "nearly_headless_nick",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/nearly_headless_nick/nearly_headless_nick-base-base-calm.png"
     },
     {
       "character": "neville",
@@ -3921,6 +5818,342 @@
       "url": "/assets/portraits/oliver_wood/oliver_wood-5-uniform-surprised.png"
     },
     {
+      "character": "oliver_wood",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/oliver_wood/oliver_wood-6-casual-calm.png"
+    },
+    {
+      "character": "oliver_wood",
+      "year": "6",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/oliver_wood/oliver_wood-6-uniform-calm.png"
+    },
+    {
+      "character": "oliver_wood",
+      "year": "7",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/oliver_wood/oliver_wood-7-casual-calm.png"
+    },
+    {
+      "character": "oliver_wood",
+      "year": "7",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/oliver_wood/oliver_wood-7-uniform-calm.png"
+    },
+    {
+      "character": "olympe_maxime",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/olympe_maxime/olympe_maxime-base-base-calm.png"
+    },
+    {
+      "character": "padma_patil",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/padma_patil/padma_patil-1-casual-calm.png"
+    },
+    {
+      "character": "padma_patil",
+      "year": "1",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/padma_patil/padma_patil-1-uniform-calm.png"
+    },
+    {
+      "character": "padma_patil",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/padma_patil/padma_patil-2-casual-calm.png"
+    },
+    {
+      "character": "padma_patil",
+      "year": "2",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/padma_patil/padma_patil-2-uniform-calm.png"
+    },
+    {
+      "character": "padma_patil",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/padma_patil/padma_patil-3-casual-calm.png"
+    },
+    {
+      "character": "padma_patil",
+      "year": "3",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/padma_patil/padma_patil-3-uniform-calm.png"
+    },
+    {
+      "character": "padma_patil",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/padma_patil/padma_patil-4-casual-calm.png"
+    },
+    {
+      "character": "padma_patil",
+      "year": "4",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/padma_patil/padma_patil-4-uniform-calm.png"
+    },
+    {
+      "character": "padma_patil",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/padma_patil/padma_patil-5-casual-calm.png"
+    },
+    {
+      "character": "padma_patil",
+      "year": "5",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/padma_patil/padma_patil-5-uniform-calm.png"
+    },
+    {
+      "character": "padma_patil",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/padma_patil/padma_patil-6-casual-calm.png"
+    },
+    {
+      "character": "padma_patil",
+      "year": "6",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/padma_patil/padma_patil-6-uniform-calm.png"
+    },
+    {
+      "character": "padma_patil",
+      "year": "7",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/padma_patil/padma_patil-7-casual-calm.png"
+    },
+    {
+      "character": "padma_patil",
+      "year": "7",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/padma_patil/padma_patil-7-uniform-calm.png"
+    },
+    {
+      "character": "pansy_parkinson",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/pansy_parkinson/pansy_parkinson-1-casual-calm.png"
+    },
+    {
+      "character": "pansy_parkinson",
+      "year": "1",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/pansy_parkinson/pansy_parkinson-1-uniform-calm.png"
+    },
+    {
+      "character": "pansy_parkinson",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/pansy_parkinson/pansy_parkinson-2-casual-calm.png"
+    },
+    {
+      "character": "pansy_parkinson",
+      "year": "2",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/pansy_parkinson/pansy_parkinson-2-uniform-calm.png"
+    },
+    {
+      "character": "pansy_parkinson",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/pansy_parkinson/pansy_parkinson-3-casual-calm.png"
+    },
+    {
+      "character": "pansy_parkinson",
+      "year": "3",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/pansy_parkinson/pansy_parkinson-3-uniform-calm.png"
+    },
+    {
+      "character": "pansy_parkinson",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/pansy_parkinson/pansy_parkinson-4-casual-calm.png"
+    },
+    {
+      "character": "pansy_parkinson",
+      "year": "4",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/pansy_parkinson/pansy_parkinson-4-uniform-calm.png"
+    },
+    {
+      "character": "pansy_parkinson",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/pansy_parkinson/pansy_parkinson-5-casual-calm.png"
+    },
+    {
+      "character": "pansy_parkinson",
+      "year": "5",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/pansy_parkinson/pansy_parkinson-5-uniform-calm.png"
+    },
+    {
+      "character": "pansy_parkinson",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/pansy_parkinson/pansy_parkinson-6-casual-calm.png"
+    },
+    {
+      "character": "pansy_parkinson",
+      "year": "6",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/pansy_parkinson/pansy_parkinson-6-uniform-calm.png"
+    },
+    {
+      "character": "pansy_parkinson",
+      "year": "7",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/pansy_parkinson/pansy_parkinson-7-casual-calm.png"
+    },
+    {
+      "character": "pansy_parkinson",
+      "year": "7",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/pansy_parkinson/pansy_parkinson-7-uniform-calm.png"
+    },
+    {
+      "character": "parvati_patil",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/parvati_patil/parvati_patil-1-casual-calm.png"
+    },
+    {
+      "character": "parvati_patil",
+      "year": "1",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/parvati_patil/parvati_patil-1-uniform-calm.png"
+    },
+    {
+      "character": "parvati_patil",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/parvati_patil/parvati_patil-2-casual-calm.png"
+    },
+    {
+      "character": "parvati_patil",
+      "year": "2",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/parvati_patil/parvati_patil-2-uniform-calm.png"
+    },
+    {
+      "character": "parvati_patil",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/parvati_patil/parvati_patil-3-casual-calm.png"
+    },
+    {
+      "character": "parvati_patil",
+      "year": "3",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/parvati_patil/parvati_patil-3-uniform-calm.png"
+    },
+    {
+      "character": "parvati_patil",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/parvati_patil/parvati_patil-4-casual-calm.png"
+    },
+    {
+      "character": "parvati_patil",
+      "year": "4",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/parvati_patil/parvati_patil-4-uniform-calm.png"
+    },
+    {
+      "character": "parvati_patil",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/parvati_patil/parvati_patil-5-casual-calm.png"
+    },
+    {
+      "character": "parvati_patil",
+      "year": "5",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/parvati_patil/parvati_patil-5-uniform-calm.png"
+    },
+    {
+      "character": "parvati_patil",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/parvati_patil/parvati_patil-6-casual-calm.png"
+    },
+    {
+      "character": "parvati_patil",
+      "year": "6",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/parvati_patil/parvati_patil-6-uniform-calm.png"
+    },
+    {
+      "character": "parvati_patil",
+      "year": "7",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/parvati_patil/parvati_patil-7-casual-calm.png"
+    },
+    {
+      "character": "parvati_patil",
+      "year": "7",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/parvati_patil/parvati_patil-7-uniform-calm.png"
+    },
+    {
+      "character": "peeves",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/peeves/peeves-base-base-calm.png"
+    },
+    {
       "character": "percy",
       "year": "1",
       "clothing": "casual",
@@ -4376,6 +6609,13 @@
       "url": "/assets/portraits/character_bases/pettigrew-base-base-surprised-attempt-1.png"
     },
     {
+      "character": "petunia_dursley",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/petunia_dursley/petunia_dursley-base-base-calm.png"
+    },
+    {
       "character": "pomona_sprout",
       "year": "base",
       "clothing": "base",
@@ -4446,6 +6686,20 @@
       "url": "/assets/portraits/poppy_pomfrey/poppy_pomfrey-base-base-surprised.png"
     },
     {
+      "character": "quirinus_quirrell",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/quirinus_quirrell/quirinus_quirrell-base-base-calm.png"
+    },
+    {
+      "character": "regulus_black",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/regulus_black/regulus_black-base-base-calm.png"
+    },
+    {
       "character": "rita",
       "year": "base",
       "clothing": "base",
@@ -4514,6 +6768,76 @@
       "clothing": "base",
       "emotion": "surprised",
       "url": "/assets/portraits/rolanda_hooch/rolanda_hooch-base-base-surprised.png"
+    },
+    {
+      "character": "romilda_vane",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/romilda_vane/romilda_vane-1-casual-calm.png"
+    },
+    {
+      "character": "romilda_vane",
+      "year": "1",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/romilda_vane/romilda_vane-1-uniform-calm.png"
+    },
+    {
+      "character": "romilda_vane",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/romilda_vane/romilda_vane-2-casual-calm.png"
+    },
+    {
+      "character": "romilda_vane",
+      "year": "2",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/romilda_vane/romilda_vane-2-uniform-calm.png"
+    },
+    {
+      "character": "romilda_vane",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/romilda_vane/romilda_vane-3-casual-calm.png"
+    },
+    {
+      "character": "romilda_vane",
+      "year": "3",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/romilda_vane/romilda_vane-3-uniform-calm.png"
+    },
+    {
+      "character": "romilda_vane",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/romilda_vane/romilda_vane-4-casual-calm.png"
+    },
+    {
+      "character": "romilda_vane",
+      "year": "4",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/romilda_vane/romilda_vane-4-uniform-calm.png"
+    },
+    {
+      "character": "romilda_vane",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/romilda_vane/romilda_vane-5-casual-calm.png"
+    },
+    {
+      "character": "romilda_vane",
+      "year": "5",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/romilda_vane/romilda_vane-5-uniform-calm.png"
     },
     {
       "character": "ron",
@@ -4936,6 +7260,20 @@
       "url": "/assets/portraits/character_bases/ron-6-uniform-surprised-attempt-1.png"
     },
     {
+      "character": "rowena_ravenclaw_portrait",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/rowena_ravenclaw_portrait/rowena_ravenclaw_portrait-base-base-calm.png"
+    },
+    {
+      "character": "salazar_slytherin_portrait",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/salazar_slytherin_portrait/salazar_slytherin_portrait-base-base-calm.png"
+    },
+    {
       "character": "scrimgeour",
       "year": "base",
       "clothing": "base",
@@ -4969,6 +7307,118 @@
       "clothing": "base",
       "emotion": "surprised",
       "url": "/assets/portraits/character_bases/scrimgeour-base-base-surprised-attempt-1.png"
+    },
+    {
+      "character": "seamus_finnigan",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/seamus_finnigan/seamus_finnigan-1-casual-calm.png"
+    },
+    {
+      "character": "seamus_finnigan",
+      "year": "1",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/seamus_finnigan/seamus_finnigan-1-uniform-calm.png"
+    },
+    {
+      "character": "seamus_finnigan",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/seamus_finnigan/seamus_finnigan-2-casual-calm.png"
+    },
+    {
+      "character": "seamus_finnigan",
+      "year": "2",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/seamus_finnigan/seamus_finnigan-2-uniform-calm.png"
+    },
+    {
+      "character": "seamus_finnigan",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/seamus_finnigan/seamus_finnigan-3-casual-calm.png"
+    },
+    {
+      "character": "seamus_finnigan",
+      "year": "3",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/seamus_finnigan/seamus_finnigan-3-uniform-calm.png"
+    },
+    {
+      "character": "seamus_finnigan",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/seamus_finnigan/seamus_finnigan-4-casual-calm.png"
+    },
+    {
+      "character": "seamus_finnigan",
+      "year": "4",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/seamus_finnigan/seamus_finnigan-4-uniform-calm.png"
+    },
+    {
+      "character": "seamus_finnigan",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/seamus_finnigan/seamus_finnigan-5-casual-calm.png"
+    },
+    {
+      "character": "seamus_finnigan",
+      "year": "5",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/seamus_finnigan/seamus_finnigan-5-uniform-calm.png"
+    },
+    {
+      "character": "seamus_finnigan",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/seamus_finnigan/seamus_finnigan-6-casual-calm.png"
+    },
+    {
+      "character": "seamus_finnigan",
+      "year": "6",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/seamus_finnigan/seamus_finnigan-6-uniform-calm.png"
+    },
+    {
+      "character": "seamus_finnigan",
+      "year": "7",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/seamus_finnigan/seamus_finnigan-7-casual-calm.png"
+    },
+    {
+      "character": "seamus_finnigan",
+      "year": "7",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/seamus_finnigan/seamus_finnigan-7-uniform-calm.png"
+    },
+    {
+      "character": "septima_vector",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/septima_vector/septima_vector-base-base-calm.png"
+    },
+    {
+      "character": "silvanus_kettleburn",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/silvanus_kettleburn/silvanus_kettleburn-base-base-calm.png"
     },
     {
       "character": "sirius",
@@ -5076,6 +7526,314 @@
       "url": "/assets/portraits/character_bases/snape-base-base-surprised-attempt-1.png"
     },
     {
+      "character": "susan_bones",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/susan_bones/susan_bones-1-casual-calm.png"
+    },
+    {
+      "character": "susan_bones",
+      "year": "1",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/susan_bones/susan_bones-1-uniform-calm.png"
+    },
+    {
+      "character": "susan_bones",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/susan_bones/susan_bones-2-casual-calm.png"
+    },
+    {
+      "character": "susan_bones",
+      "year": "2",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/susan_bones/susan_bones-2-uniform-calm.png"
+    },
+    {
+      "character": "susan_bones",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/susan_bones/susan_bones-3-casual-calm.png"
+    },
+    {
+      "character": "susan_bones",
+      "year": "3",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/susan_bones/susan_bones-3-uniform-calm.png"
+    },
+    {
+      "character": "susan_bones",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/susan_bones/susan_bones-4-casual-calm.png"
+    },
+    {
+      "character": "susan_bones",
+      "year": "4",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/susan_bones/susan_bones-4-uniform-calm.png"
+    },
+    {
+      "character": "susan_bones",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/susan_bones/susan_bones-5-casual-calm.png"
+    },
+    {
+      "character": "susan_bones",
+      "year": "5",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/susan_bones/susan_bones-5-uniform-calm.png"
+    },
+    {
+      "character": "susan_bones",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/susan_bones/susan_bones-6-casual-calm.png"
+    },
+    {
+      "character": "susan_bones",
+      "year": "6",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/susan_bones/susan_bones-6-uniform-calm.png"
+    },
+    {
+      "character": "susan_bones",
+      "year": "7",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/susan_bones/susan_bones-7-casual-calm.png"
+    },
+    {
+      "character": "susan_bones",
+      "year": "7",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/susan_bones/susan_bones-7-uniform-calm.png"
+    },
+    {
+      "character": "ted_tonks",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/ted_tonks/ted_tonks-base-base-calm.png"
+    },
+    {
+      "character": "terry_boot",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/terry_boot/terry_boot-1-casual-calm.png"
+    },
+    {
+      "character": "terry_boot",
+      "year": "1",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/terry_boot/terry_boot-1-uniform-calm.png"
+    },
+    {
+      "character": "terry_boot",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/terry_boot/terry_boot-2-casual-calm.png"
+    },
+    {
+      "character": "terry_boot",
+      "year": "2",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/terry_boot/terry_boot-2-uniform-calm.png"
+    },
+    {
+      "character": "terry_boot",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/terry_boot/terry_boot-3-casual-calm.png"
+    },
+    {
+      "character": "terry_boot",
+      "year": "3",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/terry_boot/terry_boot-3-uniform-calm.png"
+    },
+    {
+      "character": "terry_boot",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/terry_boot/terry_boot-4-casual-calm.png"
+    },
+    {
+      "character": "terry_boot",
+      "year": "4",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/terry_boot/terry_boot-4-uniform-calm.png"
+    },
+    {
+      "character": "terry_boot",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/terry_boot/terry_boot-5-casual-calm.png"
+    },
+    {
+      "character": "terry_boot",
+      "year": "5",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/terry_boot/terry_boot-5-uniform-calm.png"
+    },
+    {
+      "character": "terry_boot",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/terry_boot/terry_boot-6-casual-calm.png"
+    },
+    {
+      "character": "terry_boot",
+      "year": "6",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/terry_boot/terry_boot-6-uniform-calm.png"
+    },
+    {
+      "character": "terry_boot",
+      "year": "7",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/terry_boot/terry_boot-7-casual-calm.png"
+    },
+    {
+      "character": "terry_boot",
+      "year": "7",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/terry_boot/terry_boot-7-uniform-calm.png"
+    },
+    {
+      "character": "theodore_nott",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/theodore_nott/theodore_nott-1-casual-calm.png"
+    },
+    {
+      "character": "theodore_nott",
+      "year": "1",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/theodore_nott/theodore_nott-1-uniform-calm.png"
+    },
+    {
+      "character": "theodore_nott",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/theodore_nott/theodore_nott-2-casual-calm.png"
+    },
+    {
+      "character": "theodore_nott",
+      "year": "2",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/theodore_nott/theodore_nott-2-uniform-calm.png"
+    },
+    {
+      "character": "theodore_nott",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/theodore_nott/theodore_nott-3-casual-calm.png"
+    },
+    {
+      "character": "theodore_nott",
+      "year": "3",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/theodore_nott/theodore_nott-3-uniform-calm.png"
+    },
+    {
+      "character": "theodore_nott",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/theodore_nott/theodore_nott-4-casual-calm.png"
+    },
+    {
+      "character": "theodore_nott",
+      "year": "4",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/theodore_nott/theodore_nott-4-uniform-calm.png"
+    },
+    {
+      "character": "theodore_nott",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/theodore_nott/theodore_nott-5-casual-calm.png"
+    },
+    {
+      "character": "theodore_nott",
+      "year": "5",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/theodore_nott/theodore_nott-5-uniform-calm.png"
+    },
+    {
+      "character": "theodore_nott",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/theodore_nott/theodore_nott-6-casual-calm.png"
+    },
+    {
+      "character": "theodore_nott",
+      "year": "6",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/theodore_nott/theodore_nott-6-uniform-calm.png"
+    },
+    {
+      "character": "theodore_nott",
+      "year": "7",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/theodore_nott/theodore_nott-7-casual-calm.png"
+    },
+    {
+      "character": "theodore_nott",
+      "year": "7",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/theodore_nott/theodore_nott-7-uniform-calm.png"
+    },
+    {
+      "character": "tom_leaky_cauldron",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/tom_leaky_cauldron/tom_leaky_cauldron-base-base-calm.png"
+    },
+    {
       "character": "tonks",
       "year": "base",
       "clothing": "base",
@@ -5179,6 +7937,118 @@
       "clothing": "base",
       "emotion": "surprised",
       "url": "/assets/portraits/character_bases/umbridge-base-base-surprised-attempt-1.png"
+    },
+    {
+      "character": "vernon_dursley",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/vernon_dursley/vernon_dursley-base-base-calm.png"
+    },
+    {
+      "character": "viktor_krum",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/viktor_krum/viktor_krum-base-base-calm.png"
+    },
+    {
+      "character": "vincent_crabbe",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/vincent_crabbe/vincent_crabbe-1-casual-calm.png"
+    },
+    {
+      "character": "vincent_crabbe",
+      "year": "1",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/vincent_crabbe/vincent_crabbe-1-uniform-calm.png"
+    },
+    {
+      "character": "vincent_crabbe",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/vincent_crabbe/vincent_crabbe-2-casual-calm.png"
+    },
+    {
+      "character": "vincent_crabbe",
+      "year": "2",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/vincent_crabbe/vincent_crabbe-2-uniform-calm.png"
+    },
+    {
+      "character": "vincent_crabbe",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/vincent_crabbe/vincent_crabbe-3-casual-calm.png"
+    },
+    {
+      "character": "vincent_crabbe",
+      "year": "3",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/vincent_crabbe/vincent_crabbe-3-uniform-calm.png"
+    },
+    {
+      "character": "vincent_crabbe",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/vincent_crabbe/vincent_crabbe-4-casual-calm.png"
+    },
+    {
+      "character": "vincent_crabbe",
+      "year": "4",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/vincent_crabbe/vincent_crabbe-4-uniform-calm.png"
+    },
+    {
+      "character": "vincent_crabbe",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/vincent_crabbe/vincent_crabbe-5-casual-calm.png"
+    },
+    {
+      "character": "vincent_crabbe",
+      "year": "5",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/vincent_crabbe/vincent_crabbe-5-uniform-calm.png"
+    },
+    {
+      "character": "vincent_crabbe",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/vincent_crabbe/vincent_crabbe-6-casual-calm.png"
+    },
+    {
+      "character": "vincent_crabbe",
+      "year": "6",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/vincent_crabbe/vincent_crabbe-6-uniform-calm.png"
+    },
+    {
+      "character": "vincent_crabbe",
+      "year": "7",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/vincent_crabbe/vincent_crabbe-7-casual-calm.png"
+    },
+    {
+      "character": "vincent_crabbe",
+      "year": "7",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/vincent_crabbe/vincent_crabbe-7-uniform-calm.png"
     },
     {
       "character": "voldemort",
@@ -5634,6 +8504,34 @@
       "clothing": "uniform",
       "emotion": "surprised",
       "url": "/assets/portraits/character_bases/weasley_twins-6-uniform-surprised-attempt-1.png"
+    },
+    {
+      "character": "wilhelmina_grubbly_plank",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/wilhelmina_grubbly_plank/wilhelmina_grubbly_plank-base-base-calm.png"
+    },
+    {
+      "character": "wilkie_twycross",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/wilkie_twycross/wilkie_twycross-base-base-calm.png"
+    },
+    {
+      "character": "winky",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/winky/winky-base-base-calm.png"
+    },
+    {
+      "character": "xenophilius_lovegood",
+      "year": "base",
+      "clothing": "base",
+      "emotion": "calm",
+      "url": "/assets/portraits/xenophilius_lovegood/xenophilius_lovegood-base-base-calm.png"
     }
   ],
   "backgrounds": [
