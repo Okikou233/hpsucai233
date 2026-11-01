@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "voices": [
+    {
+      "character": "luna",
+      "url": "/vocoloco/voices/luna-1e53da9f.json"
+    },
+    {
+      "character": "dobby",
+      "url": "/vocoloco/voices/dobby-6b4124f2.json"
+    },
+    {
+      "character": "bellatrix",
+      "url": "/vocoloco/voices/bellatrix-de6786c0.json"
+    },
+    {
+      "character": "moody",
+      "url": "/vocoloco/voices/moody-0f441462.json"
+    },
+    {
+      "character": "slughorn",
+      "url": "/vocoloco/voices/slughorn-e992dbe0.json"
+    },
+    {
+      "character": "garrick_ollivander",
+      "url": "/vocoloco/voices/garrick_ollivander-f6279ed1.json"
+    },
+    {
+      "character": "draco",
+      "url": "/vocoloco/voices/draco-cf6b20c0.json"
+    },
+    {
+      "character": "dumbledore",
+      "url": "/vocoloco/voices/dumbledore-86135617.json"
+    },
+    {
+      "character": "harry",
+      "url": "/vocoloco/voices/harry-e26755f5.json"
+    },
+    {
+      "character": "hermione",
+      "url": "/vocoloco/voices/hermione-891c0f6a.json"
+    },
+    {
+      "character": "ron",
+      "url": "/vocoloco/voices/ron-ea9107c7.json"
+    },
+    {
+      "character": "neville",
+      "url": "/vocoloco/voices/neville-1d327522.json"
+    },
+    {
+      "character": "percy",
+      "url": "/vocoloco/voices/percy-9b02d821.json"
+    },
+    {
+      "character": "weasley_twins",
+      "url": "/vocoloco/voices/weasley_twins-d093e684.json"
+    },
+    {
+      "character": "oliver_wood",
+      "url": "/vocoloco/voices/oliver_wood-4dbfb29d.json"
+    },
+    {
+      "character": "seamus_finnigan",
+      "url": "/vocoloco/voices/seamus_finnigan-0dcf34cb.json"
+    },
+    {
+      "character": "filch",
+      "url": "/vocoloco/voices/filch-44741e5b.json"
+    },
+    {
+      "character": "flitwick",
+      "url": "/vocoloco/voices/flitwick-74abfd28.json"
+    },
+    {
+      "character": "vernon_dursley",
+      "url": "/vocoloco/voices/vernon_dursley-81b5cca4.json"
+    },
+    {
+      "character": "hagrid",
+      "url": "/vocoloco/voices/hagrid-d136bbc1.json"
+    },
+    {
+      "character": "rolanda_hooch",
+      "url": "/vocoloco/voices/rolanda_hooch-cce6e550.json"
+    },
+    {
+      "character": "mcgonagall",
+      "url": "/vocoloco/voices/mcgonagall-b5247a5f.json"
+    },
+    {
+      "character": "molly",
+      "url": "/vocoloco/voices/molly-e85bd70e.json"
+    },
+    {
+      "character": "nearly_headless_nick",
+      "url": "/vocoloco/voices/nearly_headless_nick-5870770f.json"
+    },
+    {
+      "character": "petunia_dursley",
+      "url": "/vocoloco/voices/petunia_dursley-4818381a.json"
+    },
+    {
+      "character": "tom_leaky_cauldron",
+      "url": "/vocoloco/voices/tom_leaky_cauldron-ac634d8f.json"
+    },
+    {
+      "character": "quirinus_quirrell",
+      "url": "/vocoloco/voices/quirinus_quirrell-8899dcd2.json"
+    },
+    {
+      "character": "snape",
+      "url": "/vocoloco/voices/snape-7676cad3.json"
+    },
+    {
+      "character": "generic_goblin",
+      "url": "/vocoloco/voices/generic_goblin-926fa666.json"
+    }
+  ]
+}
