@@ -8532,6 +8532,510 @@
       "clothing": "base",
       "emotion": "calm",
       "url": "/assets/portraits/xenophilius_lovegood/xenophilius_lovegood-base-base-calm.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "1",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-1-uniform-calm.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-1-casual-calm.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "happy",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-1-casual-happy.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "sad",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-1-casual-sad.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "surprised",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-1-casual-surprised.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "angry",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-1-casual-angry.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "2",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-2-uniform-calm.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-2-casual-calm.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "happy",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-2-casual-happy.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "sad",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-2-casual-sad.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "surprised",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-2-casual-surprised.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "angry",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-2-casual-angry.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "3",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-3-uniform-calm.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-3-casual-calm.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "happy",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-3-casual-happy.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "sad",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-3-casual-sad.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "surprised",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-3-casual-surprised.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "angry",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-3-casual-angry.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "4",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-4-uniform-calm.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-4-casual-calm.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "happy",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-4-casual-happy.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "sad",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-4-casual-sad.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "surprised",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-4-casual-surprised.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "angry",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-4-casual-angry.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "5",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-5-uniform-calm.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-5-casual-calm.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "happy",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-5-casual-happy.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "sad",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-5-casual-sad.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "surprised",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-5-casual-surprised.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "angry",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-5-casual-angry.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "6",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-6-uniform-calm.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-6-casual-calm.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "happy",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-6-casual-happy.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "sad",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-6-casual-sad.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "surprised",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-6-casual-surprised.png"
+    },
+    {
+      "character": "daphne_greengrass",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "angry",
+      "url": "/assets/portraits/daphne_greengrass/daphne_greengrass-6-casual-angry.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "1",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-1-uniform-calm.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-1-casual-calm.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "happy",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-1-casual-happy.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "sad",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-1-casual-sad.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "surprised",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-1-casual-surprised.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "1",
+      "clothing": "casual",
+      "emotion": "angry",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-1-casual-angry.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "2",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-2-uniform-calm.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-2-casual-calm.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "happy",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-2-casual-happy.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "sad",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-2-casual-sad.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "surprised",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-2-casual-surprised.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "2",
+      "clothing": "casual",
+      "emotion": "angry",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-2-casual-angry.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "3",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-3-uniform-calm.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-3-casual-calm.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "happy",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-3-casual-happy.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "sad",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-3-casual-sad.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "surprised",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-3-casual-surprised.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "3",
+      "clothing": "casual",
+      "emotion": "angry",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-3-casual-angry.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "4",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-4-uniform-calm.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-4-casual-calm.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "happy",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-4-casual-happy.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "sad",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-4-casual-sad.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "surprised",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-4-casual-surprised.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "4",
+      "clothing": "casual",
+      "emotion": "angry",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-4-casual-angry.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "5",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-5-uniform-calm.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-5-casual-calm.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "happy",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-5-casual-happy.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "sad",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-5-casual-sad.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "surprised",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-5-casual-surprised.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "5",
+      "clothing": "casual",
+      "emotion": "angry",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-5-casual-angry.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "6",
+      "clothing": "uniform",
+      "emotion": "calm",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-6-uniform-calm.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "calm",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-6-casual-calm.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "happy",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-6-casual-happy.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "sad",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-6-casual-sad.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "surprised",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-6-casual-surprised.png"
+    },
+    {
+      "character": "astoria_greengrass",
+      "year": "6",
+      "clothing": "casual",
+      "emotion": "angry",
+      "url": "/assets/portraits/astoria_greengrass/astoria_greengrass-6-casual-angry.png"
     }
   ],
   "backgrounds": [
